@@ -1,4 +1,5 @@
 #Calculate reduced statss for data files at J = 100 c/bp
+#booger
 for datafile in "$@"
 do
      echo ${datafile}
